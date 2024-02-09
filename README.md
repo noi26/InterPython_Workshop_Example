@@ -18,6 +18,6 @@ LcAnalyzer requires the following Python packages:
 
 The following optional packages are required to run LcAnalyzer's unit tests:
 
-- [pytest](https://docs.pytest.org/en/stable/) - LcAnalyzer's unit tests are written using pytest
+- [pytest]([https://docs.pytest.org/en/stable/](https://github.com/pytest-dev/pytest-cov)) - LcAnalyzer's unit tests are written using pytest
 - [pytest-cov](https://pypi.org/project/pytest-cov/) - Adds test coverage stats to unit testing
 
